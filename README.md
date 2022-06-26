@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="">
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="">
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="">
-<img align="left" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="">
 <!-- <img align="left" src="" alt=""> -->
-<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushv45&show_icons=true&locale=en&layout=compact" alt="ayushv45" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushv45&show_icons=true&theme=tokyonight" alt="ayushv45" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushv45&" alt="ayushv45" /></p>

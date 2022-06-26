@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="left">Languages and Tools:</h3>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="ayushv45">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushv45&show_icons=true&locale=en&layout=compact" alt="ayushv45" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushv45&show_icons=true&theme=tokyonight" alt="ayushv45" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushv45&" alt="ayushv45" /></p>

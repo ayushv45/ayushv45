@@ -1,5 +1,4 @@
 <h1> Hi 👋 I'm Ayush Verma <h1>
-<p>-🌱 I’m currently learning Web Development and Data Structure and Algorithms. </p>
 <!--
 **ayushv45/ayushv45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>-🌱 I’m currently learning Web Development and Data Structure and Algorithms. </p>
 <h2 align="left">Languages and Tools:</h2>
 <p><img  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="">
 <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="">

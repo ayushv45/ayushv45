@@ -14,16 +14,16 @@
 <img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="">
 <img  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="">
 <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="">
-<!-<img  src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt=""> 
+<img  src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt=""> 
 <img  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="">
 <img  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt=""></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushv45&show_icons=true&locale=en&layout=compact" alt="ayushv45" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushv45&show_icons=true&&locale=en&layout=compact" alt="ayushv45" /> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayushv45&show_icons=true&locale=en" alt="ayushv45" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayushv45&show_icons=true&theme=tokyonight&locale=en" alt="ayushv45" /></p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushv45&" alt="ayushv45" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushv45" alt="ayushv45" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushv45&" alt="ayushv45" /></a> </p>

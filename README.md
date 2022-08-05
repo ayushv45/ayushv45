@@ -26,4 +26,6 @@
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushv45&" alt="ayushv45" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushv45&" alt="ayushv45" /></a> </p>
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushv45&" alt="ayushv45" /></a> </p> -->
+
+![My activity graph](https://activity-graph.herokuapp.com/graph?username=karn21&theme=github&custom_title=My%20activity%20graph)

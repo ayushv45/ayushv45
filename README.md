@@ -21,12 +21,4 @@
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt=""></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushv45&show_icons=true&&locale=en&layout=compact" alt="ayushv45" /> </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayushv45&show_icons=true&theme=tokyonight&locale=en" alt="ayushv45" /></p>
-
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushv45&" alt="ayushv45" /></p>
-
-<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushv45&" alt="ayushv45" /></a> </p> -->
-
-![My activity graph](https://activity-graph.herokuapp.com/graph?username=ayushv45&theme=github&custom_title=My%20activity%20graph)

@@ -34,6 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushv45&show_icons=true&locale=en" alt="ayushv45" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushv45&" alt="ayushv45" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushv45&" alt="ayushv45" /></p> -->
 
 [![@ayushv45's Holopin board](https://holopin.io/api/user/board?user=ayushv45)](https://holopin.io/@ayushv45)

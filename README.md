@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
 <h3 align="center">An Aspiring Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushv45&label=Profile%20views&color=0e75b6&style=flat" alt="ayushv45" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushv45&label=Profile%20views&color=0e75b6&style=flat" alt="ayushv45" /> </p> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -30,10 +30,10 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt=""></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushv45&show_icons=true&locale=en&layout=compact" alt="ayushv45" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushv45&show_icons=true&locale=en&layout=compact" alt="ayushv45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushv45&show_icons=true&locale=en" alt="ayushv45" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushv45&" alt="ayushv45" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushv45&" alt="ayushv45" /></p> --> 
 
 [![@ayushv45's Holopin board](https://holopin.io/api/user/board?user=ayushv45)](https://holopin.io/@ayushv45)
